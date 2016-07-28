@@ -1,0 +1,21 @@
+{
+  "name": "pokemon-radar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "start": "start.js",
+    "download": "download.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "configstore": "^2.0.0",
+    "download": "^5.0.2",
+    "fs": "0.0.2",
+    "jsonfile": "^2.3.1",
+    "node-notifier": "^4.6.0",
+    "pokemon-go-node-api": "^1.4.0",
+    "prompt": "^1.0.0"
+  }
+}
